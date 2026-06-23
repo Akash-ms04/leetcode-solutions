@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Akash-ms04/leetcode-solutions/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/Akash-ms04/leetcode-solutions/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Akash-ms04/leetcode-solutions/tree/main/0177-nth-highest-salary/) | Medium |
 | [0180-consecutive-numbers](https://github.com/Akash-ms04/leetcode-solutions/tree/master/0180-consecutive-numbers) |
