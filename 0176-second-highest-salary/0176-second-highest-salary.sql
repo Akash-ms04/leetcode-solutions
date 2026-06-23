@@ -1,6 +1,6 @@
-# Write your MySQL query statement below
+-- Write your PostgreSQL query statement below
 select (
-    select distinct salary
+    select distinct (salary)
     from employee
     order by salary desc
     limit 1 offset 1
